@@ -1,0 +1,15 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+	  background-color:none;
+  }
+  .carousel-inner p, .carousel-inner h3{
+	width:100%;
+	background-color:RGBA(0,0,0,0.5);
+	padding: 10px 0;
+	margin:0;
+ } 
+   .carousel-inner p {
+   margin-bottom:20px;
+ }
